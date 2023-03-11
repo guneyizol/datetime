@@ -10,6 +10,7 @@ This repository contains links to documentations, blog posts, and articles relat
 - [Look Before You Leap – The Coming Leap Second and AWS (2015)](https://aws.amazon.com/blogs/aws/look-before-you-leap-the-coming-leap-second-and-aws/) by Jeff Barr
 - [Resolve Leap Second Issues in Red Hat Enterprise Linux](https://access.redhat.com/articles/15145)
 - [What is Windows Time Service](https://learn.microsoft.com/en-us/archive/blogs/w32time/what-is-windows-time-service)
+- [Stop using utcnow and utcfromtimestamp](https://blog.ganssle.io/articles/2019/11/utcnow.html) by Paul Ganssle
 
 ## Reference Material
 - [NTP](https://www.ntp.org/)
