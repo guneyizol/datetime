@@ -10,6 +10,7 @@ This repository contains links to documentations, blog posts, and articles relat
 
 ## Reference Material
 - [Google Public NTP](https://developers.google.com/time/) [smears the leap second](https://developers.google.com/time/smear) as explained in the Guides section.
+- [NTP docs](https://doc.ntp.org/)
 - [Python strftime reference cheatsheet](https://strftime.org/)
 - [strftime(3) - Linux manual page](https://man7.org/linux/man-pages/man3/strftime.3.html)
 - [strftime reference and sandbox](https://www.strfti.me/)
