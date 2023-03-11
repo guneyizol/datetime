@@ -14,7 +14,7 @@ This repository contains links to documentations, blog posts, and articles relat
 
 ## Reference Material
 - [NTP](https://www.ntp.org/)
-- [Google Public NTP](https://developers.google.com/time/) [smears the leap second](https://developers.google.com/time/smear) as explained in the Guides section.
+- [Google Public NTP](https://developers.google.com/time/)
 - [Windows Time Service (W32Time)](https://learn.microsoft.com/en-us/windows-server/networking/windows-time-service/windows-time-service-top)
 - [strftime(3) - Linux manual page](https://man7.org/linux/man-pages/man3/strftime.3.html)
 
