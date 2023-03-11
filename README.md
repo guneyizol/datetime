@@ -7,13 +7,15 @@ This repository contains links to documentations, blog posts, and articles relat
 - [The Complexity of Time Data Programming](https://www.mojotech.com/blog/the-complexity-of-time-data-programming/) by Heimir Sverrisson
 - [Storing UTC is not a silver bullet](https://codeblog.jonskeet.uk/2019/03/27/storing-utc-is-not-a-silver-bullet/) by Jon Skeet
 - [How to save datetimes for future events - (when UTC is not the right answer)](http://www.creativedeletion.com/2015/03/19/persisting_future_datetimes.html) by Lau Taarnskov
+- [Look Before You Leap – The Coming Leap Second and AWS by Jeff Barr (2015)](https://aws.amazon.com/blogs/aws/look-before-you-leap-the-coming-leap-second-and-aws/)
+- [Resolve Leap Second Issues in Red Hat Enterprise Linux](https://access.redhat.com/articles/15145)
+- [What is Windows Time Service](https://learn.microsoft.com/en-us/archive/blogs/w32time/what-is-windows-time-service)
 
 ## Reference Material
 - [NTP](https://www.ntp.org/)
 - [Google Public NTP](https://developers.google.com/time/) [smears the leap second](https://developers.google.com/time/smear) as explained in the Guides section.
-- [Python strftime reference cheatsheet](https://strftime.org/)
+- [Windows Time Service (W32Time)](https://learn.microsoft.com/en-us/windows-server/networking/windows-time-service/windows-time-service-top)
 - [strftime(3) - Linux manual page](https://man7.org/linux/man-pages/man3/strftime.3.html)
-- [strftime reference and sandbox](https://www.strfti.me/)
 
 ## Copyright
 ![image](https://user-images.githubusercontent.com/56518500/224474708-8afc6faa-4674-4dc3-9eca-95bbc42bd10f.png)
