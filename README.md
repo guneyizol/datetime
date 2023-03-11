@@ -4,6 +4,7 @@ This repository contains links to documentations, blog posts, and articles relat
 
 ## General Info
 - [Stackoverflow's timezone tag](https://stackoverflow.com/tags/timezone/info)
+- [Daylight saving time and time zone best practices](https://stackoverflow.com/questions/2532729/daylight-saving-time-and-time-zone-best-practices/)
 - [The Complexity of Time Data Programming](https://www.mojotech.com/blog/the-complexity-of-time-data-programming/) by Heimir Sverrisson
 - [Storing UTC is not a silver bullet](https://codeblog.jonskeet.uk/2019/03/27/storing-utc-is-not-a-silver-bullet/) by Jon Skeet
 - [How to save datetimes for future events - (when UTC is not the right answer)](http://www.creativedeletion.com/2015/03/19/persisting_future_datetimes.html) by Lau Taarnskov
