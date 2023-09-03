@@ -12,6 +12,7 @@ This repository contains links to documentations, blog posts, and articles relat
 - [Resolve Leap Second Issues in Red Hat Enterprise Linux](https://access.redhat.com/articles/15145)
 - [What is Windows Time Service](https://learn.microsoft.com/en-us/archive/blogs/w32time/what-is-windows-time-service)
 - [Stop using utcnow and utcfromtimestamp](https://blog.ganssle.io/articles/2019/11/utcnow.html) by Paul Ganssle
+- [Dates, Times, Calendars— The Universal Source of Data Science Trauma](https://counting.substack.com/p/dates-times-calendars-the-universal-source-of-data-science-trauma-92a887fdedd1) by Randy Au
 
 ## Reference Material
 - [NTP](https://www.ntp.org/)
